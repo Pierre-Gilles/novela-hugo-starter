@@ -13,6 +13,8 @@ Hello,
 
 This is a test
 
+![](/images/ppdubai.jpg)
+
 ![](/images/Screenshot 2020-04-03 at 11.51.38.png)
 
 These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
