@@ -7,7 +7,6 @@ sections:
 - type: document
   path: creative
   label: Hey this is a test
-  match: "**/*"
 - type: heading
   label: Content
 - type: document
