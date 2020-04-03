@@ -1,11 +1,10 @@
 +++
 authors = []
-date = ""
-draft = true
+date = 2020-04-02T22:00:00Z
 excerpt = ""
-hero = ""
-timeToRead = 0
-title = ""
+hero = "/images/Screenshot 2020-04-03 at 11.28.33.png"
+timeToRead = 5
+title = "This is a new article"
 
 +++
-![](/images/Screenshot 2020-04-03 at 11.28.33.png "This is a screen")
+![klj](/images/Screenshot 2020-04-03 at 11.28.33.png "This is a screen")
